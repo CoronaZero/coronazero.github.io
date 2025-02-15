@@ -984,9 +984,9 @@ about:
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, the icon is no longer a link, but a hovering QR code
   icons:
-    - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
-    - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
-    - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
+    - { class: "iconfont icon-github-fill", link: "https://github.com/CoronaZero", tip: "GitHub" }
+    - { class: "iconfont icon-zhihu-fill", link: "https://www.zhihu.com/people/Corona-Zero", tip: "知乎" }
+
 
 
 #---------------------------
@@ -1030,7 +1030,7 @@ links:
   items:
     - {
       title: "绫织梦 CoronaZero | 狂想日记",
-      intro: "主题博客",
+      intro: "狂妄，敬自由。",
       link: "https://corona.dreamweaver.top/",
       avatar: "https://gravatar.dreamweaver.top/f33b465f1343520339b972d3bd84334d?s=512"
     }
