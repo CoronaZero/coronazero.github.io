@@ -105,3 +105,13 @@ deploy:
   repo: https://github.com/CoronaZero/coronazero.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  # template: ./sitemap_template.xml
+  # template_txt: ./sitemap_template.txt
+  rel: true
+  tags: true
+  categories: true
