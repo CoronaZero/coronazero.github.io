@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: /img/fluid.png
+favicon: https://gravatar.dreamweaver.top/f33b465f1343520339b972d3bd84334d?s=64
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: /img/fluid.png
+apple_touch_icon: https://gravatar.dreamweaver.top/f33b465f1343520339b972d3bd84334d?s=64
 
 # 浏览器标签页中的标题分隔符，效果：文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -371,8 +371,8 @@ navbar:
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "category", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "tag", link: "/tags/", icon: "iconfont icon-tags-fill" }
-    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
     - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
+    - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
 
 # 搜索功能，基于 hexo-generator-search 插件，若已安装其他搜索插件请关闭此功能，以避免生成多余的索引文件
 # Search feature, based on hexo-generator-search. If you have installed other search plugins, please disable this feature to avoid generating redundant index files
@@ -986,6 +986,7 @@ about:
   icons:
     - { class: "iconfont icon-github-fill", link: "https://github.com/CoronaZero", tip: "GitHub" }
     - { class: "iconfont icon-zhihu-fill", link: "https://www.zhihu.com/people/Corona-Zero", tip: "知乎" }
+    - { class: "iconfont icon-bilibili-fill", link: "https://space.bilibili.com/35568955", tip: "哔哩哔哩" }
 
 
 
