@@ -98,14 +98,6 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: fluid 
 
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo: https://github.com/CoronaZero/coronazero.github.io
-  # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
-
 sitemap:
   path: 
     - sitemap.xml
