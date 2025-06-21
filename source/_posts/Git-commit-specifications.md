@@ -10,7 +10,7 @@ categories: 编程技术
 经常在别人家的 Git 仓库中看到类似 `feat: ` , `fix: ` 开头的 commit 信息，这其实是一种 Git 提交规范，用于说明此次提交都做了什么事情。
 
 # 提交规范公式
-> `commit message` = `subject` + `:`+ `空格` + `message 主体`
+> `commit message` = `subject` + `:` + `空格` + `message 主体`
 
 比如说，`fix: 修复了老板觉得代码运行速度过快的 BUG `
 
